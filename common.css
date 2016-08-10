@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #0078bf;
+}
+
+img {
+  width: 100%;
+  margin-bottom: -5px;
+}
+
+nav {
+  text-align: center;
+  margin: 20px 0;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #0078bf;
+  border: 1px solid #fff; 
+  color: #fff;
+  font-size: 16pt;
+}
+
+button:hover {
+  background-color: #fff;
+  border: 1px solid #fff; 
+  color: #0078bf;
+}
